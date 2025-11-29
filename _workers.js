@@ -107,6 +107,7 @@ export default {
     const html = `<!DOCTYPE html>
   <html lang="zh-CN">
   <head>
+  <link rel="icon" href="https://www.cloudflare.com/favicon.ico" type="image/x-icon">
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>Cloudflare IP 收集器</title>
@@ -722,7 +723,7 @@ export default {
       <div class="container">
           <div class="header">
               <div class="header-content">
-                  <h1>Cloudflare 优选IP 收集器</h1>
+                  <h1>Cloudflare 优选IP 收集器 UI+</h1>
                   <p> 自动定时拉取IP并测速</p>
               </div>
               <div class="social-links">
